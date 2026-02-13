@@ -1,0 +1,34 @@
+# Android specific files
+/.idea/
+.gradle/
+build/
+local.properties
+*.iml
+
+# Log files
+*.log
+
+# Java class files
+*.class
+
+# APK files
+*.apk
+*.ap_  
+
+# JNI libs
+*.so  
+
+# IntelliJ specific files
+out/
+
+# Miscellaneous
+*.hprof
+
+# Android Studio captures
+captures/
+
+# Generated files
+gen/
+
+# Android navigation files
+.navigation/
